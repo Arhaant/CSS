@@ -1,0 +1,21 @@
+h1{
+    color:midnightblue;
+}
+/*{
+    border:solid;
+}
+*/
+.header{
+    background-color: gold;
+    display:flex;
+    justify-content: space-between;
+}
+.Grid{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
